@@ -1,0 +1,8 @@
+/.vscode/launch.json
+/.vscode/tasks.json
+/dist/
+/obj/
+/bin/
+/rich-doc-jrg-html/
+/rich-doc-jrg/
+/rich-prototype/
